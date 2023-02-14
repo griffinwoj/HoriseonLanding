@@ -1,16 +1,20 @@
 
 # Code Refactor Starter Code
 README
+
 Introduction
-This application is a HTML, CSS, based platform that provides multiple users with a unique experience on this landing page. The mission of this landing page is to provide a clean and user-friendly landing page for the clients to interact with.
+
+This program is an HTML and CSS-based platform that offers various users on this landing page a distinctive experience. This landing page's goal is to give users a simple and easy-to-navigate interface to interact with.
 
 Functionality
 The application fulfills the requirements for Week 1 module 1 homework.
 
 CSS
-The goal was to refactor the CSS selectors and properties with hopes of a more organized semantic structure. The CSS has been written in a way that makes it easy to understand and modify if needed.
 
-The CSS file is properly commented, making it easy for other developers to understand the code. Each section of the CSS code has been annotated with clear and concise comments, explaining the purpose and functionality of each selector and property.
+Refactoring the CSS selectors and attributes was intended to create a semantic framework that was more well-organized. It is simple to comprehend and adjust the CSS because of the manner it has been written.
+
+Because the CSS file is adequately annotated, other developers may easily comprehend the code. The purpose and operation of each selector and attribute have been explained in detail in each section of the CSS code.
 
 Conclusion
-This application has been designed and developed with the user in mind, and every effort has been made to ensure that the application is easy to use and navigate. If you have any questions or concerns regarding said landing page, please contact Griffin Wojtowicz at griffinw@protonmail.com
+
+The user has been the focus of this application's design and development, and every effort has been taken to make it simple to use and navigate. Griffin Wojtowicz can be reached at griffinw@protonmail.com if you have any queries or complaints about the aforementioned landing page.
